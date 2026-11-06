@@ -1,9 +1,14 @@
 78098b89c88a74ebe8c20117b8754620
-::res://::1793944311
+::res://::1793946916
+export_presets.cfg::TextFile::-1::1793946916::0::1::::<><><>0<>0<><>::
 README.md::TextFile::-1::1793944299::0::1::::<><><>0<>0<><>::
+::res://html/::1793946915
+Equilibrio Universitario.apple-touch-icon.png::CompressedTexture2D::1592234486494234907::1793946915::1793946923::1::::<><><>0<>0<>ed0bc00648c6730702f25ec3bf6e1469<>res://.godot/imported/Equilibrio Universitario.apple-touch-icon.png-5024a930657cf531fe74bc11cd18f48b.ctex::
+Equilibrio Universitario.icon.png::CompressedTexture2D::3906583274639314940::1793946915::1793946923::1::::<><><>0<>0<>80c43a030263ca9569e8fcac2be74af0<>res://.godot/imported/Equilibrio Universitario.icon.png-b8499d489f81501944c0adc6891e2251.ctex::
+Equilibrio Universitario.png::CompressedTexture2D::5113547915629441775::1793946915::1793946923::1::::<><><>0<>0<>fdc6170f1e32bc66d6faf5b8a8642c4e<>res://.godot/imported/Equilibrio Universitario.png-933a60706871522c97b5f68680e46138.ctex::
 ::res://scenes/::1793944299
 main.tscn::PackedScene::-1::1793944299::0::1::::<><><>0<>0<><>::res://scripts/main.gd
-::res://scripts/::1793944299
+::res://scripts/::1793944311
 enemy.gd::GDScript::520078342444012354::1793944299::0::1::::<>CharacterBody2D<><>0<>0<><>::
 game_state.gd::GDScript::3370263364687677681::1793944299::0::1::::<>Node<><>0<>0<><>::
 main.gd::GDScript::7164594531302368323::1793944299::0::1::::<>Node2D<><>0<>0<><>::
